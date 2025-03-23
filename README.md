@@ -14,3 +14,8 @@ The Sales Analysis Dashboard is created using Microsoft Excel and includes Pivot
 - Orders by Top 10 Cities – Bar chart showing the top cities generating the highest number of orders.
 - Revenue by Top 5 Products – Bar chart showing the best-performing products.
 - Gender Split – Pie chart displaying the gender distribution of customers.
+
+## Interactive Filters
+- Order Date – Filter data based on order date.
+- Delivery Date – Filter data based on delivery date.
+- Occasion – Filter data by different occasions (Anniversary, Birthday, Diwali, etc.).
