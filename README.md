@@ -19,3 +19,8 @@ The Sales Analysis Dashboard is created using Microsoft Excel and includes Pivot
 - Order Date – Filter data based on order date.
 - Delivery Date – Filter data based on delivery date.
 - Occasion – Filter data by different occasions (Anniversary, Birthday, Diwali, etc.).
+ ## Use Cases
+ - Sales Performance Monitoring
+ - Customer Behavior Analysis
+ - Product Performance Tracking
+ - Revenue Trend Analysis
